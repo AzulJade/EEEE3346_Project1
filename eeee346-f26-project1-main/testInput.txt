@@ -1,0 +1,12 @@
+input_images/balloons.pgm
+0
+output_images/stretching.pgm
+y
+input_images/cameraman.pgm
+1
+output_images/btc.pgm
+y
+input_images/cameraman.pgm
+2
+output_images/edgedetect.pgm
+n

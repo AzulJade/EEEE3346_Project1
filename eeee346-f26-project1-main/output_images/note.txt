@@ -1,0 +1,4 @@
+The following resulting files must be present here:
+  stretching.pgm
+  btc.pgm
+  edgedetect.pgm
